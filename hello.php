@@ -1,7 +1,1 @@
-<?= $turle ?>
-мафвмилвилдомДОЛМТботс бочтсмчим
-яия
-ияияиfvv
-ияиии
-sfvsf
-v;ofhuouabnfdfdafuhbuilhtglus bya
+<? echo "Я змінив PHP документ";
