@@ -10,12 +10,12 @@
   </head>
   <body>
     <div class="header-all bg-dark">
-     <div class="container-fluid bg-dark">
-      <div class="nav bg-dark">
-       <div class="nav text-left nav-brand">
-         <h1 class="display-3 text-light text-uppercase">QNMAQ</h1>
+     <div class="container bg-dark">
+      <div class="row nav bg-dark">
+       <div class="nav col-lg-8 text-left nav-brand">
+         <h1 class="display-5 text-light text-uppercase">QNMAQ</h1>
        </div>
-       <div class="nav text-right nav-pills">
+       <div class="nav col-lg-4 text-right nav-pills">
          <p class="nav-item"><a class="nav-link text-light" href="#">Main</a></p>
          <p class="nav-item"><a class="nav-link text-light" href="#">About</a></p>
          <p class="nav-item"><a class="nav-link text-light" href="#">Login</a></p>
