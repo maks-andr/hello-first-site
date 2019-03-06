@@ -1,2 +1,29 @@
-.menu{height: 50px;
-    background-color: darkgrey}
+header{height: 150px;
+    background-image: url(images/head.png);
+    border-collapse:collapse;
+    border-radius: 5px}
+
+#menu{position: absolute;
+        right:100px;
+        top:70px}
+#menu>li{display: inline-block;
+        padding: 20px;
+        list-style-type: none;
+    border-radius: 5px}
+#menu>li:hover{background: #222222;
+            opacity: 0.5;}
+#menu>li>a{font-family: tahoma ;
+        text-decoration:none;
+        color:darkgrey}
+@font-face {font-family: 'christmas';
+     src: url('fonts/Christmas ScriptC.ttf');
+}
+header>h1{font-family: christmas;
+        color:white;
+    font-style: italic;
+    letter-spacing: 3px;
+    font-size: 71px;
+    margin: 0;
+    position: absolute;
+    left:100px;
+    top:30px}
