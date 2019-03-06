@@ -1,4 +1,4 @@
-<?php $title = "Main"; ?>
+<?php $title = __FILE__ ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -10,10 +10,17 @@
     <title><?=$title?></title>
   </head>
   <body>
+    <div class="bg-dark">
+    <div class="container-fluid">
     <div class="row bg-dark">
-      <div class="col-lg">
-
+      <div class="col-lg-8">
+      <h4 class="display-5 text-light text-center">Copyright (c) 2019 Copyright. All Rights Reserved.</h1>
       </div>
+      <div class="col-lg-4">
+      <h4 class="lead text-primary text-center">it's just for you</h1>
+      </div>
+     </div>
     </div>
+   </div>
   </body>
 </html>
