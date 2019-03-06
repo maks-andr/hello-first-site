@@ -1,4 +1,3 @@
-<?php $title = __FILE__ ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -13,11 +12,11 @@
     <div class="bg-dark">
     <div class="container-fluid">
     <div class="row bg-dark">
-      <div class="col-lg-8">
-      <h4 class="display-5 text-light text-center">Copyright (c) 2019 Copyright. All Rights Reserved.</h1>
+      <div class="col-lg-10">
+        <h1 class="display-3">Copyright (c) 2019 Copyright. All Rights Reserved.</h1>
       </div>
-      <div class="col-lg-4">
-      <h4 class="lead text-primary text-center">it's just for you</h1>
+      <div class="col-lg-2">
+        <a href="#">LINK</a>
       </div>
      </div>
     </div>

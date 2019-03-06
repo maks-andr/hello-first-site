@@ -6,5 +6,7 @@
   </head>
   <body>
     <?php include('files/header.php'); ?>
+    <p style="padding-top: 50px;">Content</p>
+    <?php include('files/footer.php'); ?>
   </body>
 </html>
