@@ -7,9 +7,15 @@ class Main extends CI_Controller {
 
 	{
 		$this->load->view('page/header');
-		$this->load->view('page/aside');
+		// $this->load->view('page/aside');
 		$this->load->view('page/article');
-		$this->load->view('page/footer');
+		// $this->load->view('page/footer');
+	}
+
+	public function login()
+	{
+		$data['CurrentArticleContent'] = get_register_form();
+		$this->load->view('page/article', $data);
 	}
 
 
