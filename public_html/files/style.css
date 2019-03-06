@@ -32,5 +32,7 @@ header>h1{font-family: christmas;
         right: 30px;
         top: 20px;
         font-size: 15px;
-        color:lightgrey
-    }
+        color:lightgrey;
+        text-decoration:none;
+        padding: 5px}
+#registration:hover{background: grey;}
