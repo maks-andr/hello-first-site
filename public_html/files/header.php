@@ -9,7 +9,7 @@
     <body>
         <header>
             <h1>Hello guest!</h1>
-            <a id="registration">Регістрація</a>
+            <a href="#" id="registration">Регістрація</a>
             <ul id="menu">
                 <li><a href="#">Головна</a></li>
                 <li><a href="#">Про нас</a></li>
